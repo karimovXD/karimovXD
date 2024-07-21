@@ -1,6 +1,5 @@
-![Header](https://github.com/karimovXD/karimovXD/blob/main/assets/background-image.webp)
-
 ## About me
+
 my name is Iskander or you can call me Isa
 I'm a front-end developer, studied at Webstar IT Academy and worked as a temporary support teacher.
 
@@ -12,3 +11,9 @@ I'm a front-end developer, studied at Webstar IT Academy and worked as a tempora
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style-for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style-for-the-badge&logo=react)
 ![.Nel](https://img.shields.io/badge/-Frameworks-090909?style-for-the-badge&logo=framework)
+
+### Social media:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style-for-the-badge&logo=telegram&logoColor=24A0D9)](https://t.me/LMN00000);
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style-for-the-badge&logo=linkedin&logoColor=27A0D9)](https://t.me/LMN00000);
+[![VK](https://img.shields.io/badge/-VK-090909?style-for-the-badge&logo=vk&logoColor=24A0D9)](https://t.me/LMN00000);
