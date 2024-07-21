@@ -7,12 +7,12 @@ I'm a front-end developer, studied at Webstar IT Academy and worked as a tempora
 
 ### Stacks
 
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style-for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style-for-the-badge&logo=css3&logoColor=097CDB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style-for-the-badge&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-090909?style-for-the-badge&logo=react)
-![.Nel](https://img.shields.io/badge/-Frameworks-090909?style-for-the-badge&logo=framework)
+[![HTML5](https://img.shields.io/badge/-HTML5-090909?style-for-the-badge&logo=HTML5)](https://en.wikipedia.org/wiki/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-090909?style-for-the-badge&logo=css3&logoColor=097CDB)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript)](https://en.wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style-for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-090909?style-for-the-badge&logo=react)](https://react.dev/)
+[![.Nel](https://img.shields.io/badge/-Frameworks-090909?style-for-the-badge&logo=frameworks)](https://www.google.com/search?q=frameworks&oq=frameworks)
 
 ### Social media:
 
