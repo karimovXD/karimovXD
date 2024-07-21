@@ -1,6 +1,8 @@
 ![Header](https://github.com/karimovXD/karimovXD/blob/main/assets/background-image.webp)
 
-## I'm a Frontend developer
+## About me
+my name is Iskander or you can call me Isa
+I'm a front-end developer, studied at Webstar IT Academy and worked as a temporary support teacher.
 
 ### Stacks
 
