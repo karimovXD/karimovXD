@@ -22,6 +22,6 @@ I'm a front-end developer, studied at Webstar IT Academy and worked as a tempora
 
 ### My Website
 
-[![Website](https://img.shields.io/badge/-Watch-090909?style-for-the-badge&logo=Website)](https://www.google.com/search?q=Website&oq=Website)[https://portfolio-two-one-ii.vercel.app]
+[![Website](https://img.shields.io/badge/-Watch-090909?style-for-the-badge&logo=Website)](https://portfolio-two-one-ii.vercel.app)
 
 
