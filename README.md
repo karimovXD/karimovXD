@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🧾 About Me
 🛠 I’m currently working on<br>Building a AKARI website using Next.js, TypeScript, and Tailwind CSS.<br><br>🤝 I’m looking to collaborate on<br>Open-source frontend projects, UI libraries, and web app dashboards.<br><br>💡 I’m looking for help with<br>Backend integration, API optimizations, and advanced Next.js patterns.<br><br>🌱 I’m currently learning<br>NestJS, Node.js, and full-stack architecture for scalable applications.<br><br>💬 Ask me about<br>React, Next.js, TypeScript, Tailwind CSS, SCSS, and UI/UX design.<br><br>⚡ Fun fact<br>I enjoy optimizing small frontend details and experimenting with pet projects.
 
 
